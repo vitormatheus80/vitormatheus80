@@ -17,3 +17,7 @@ Sou um desenvolvedor Java em busca de desafios e oportunidades para aprimorar mi
 - 💼 [LinkedIn](https://www.linkedin.com/in/vitormatheus/)
 
 Gosto de trocar experiências e conhecimentos, sinta-se à vontade para entrar em contato comigo! 😄
+
+
+[![vitormatheus80](https://github-readme-stats.vercel.app/api?username=vitormatheus80&show_icons=true&theme=radical)](https://github.com/vitormatheus80)
+
