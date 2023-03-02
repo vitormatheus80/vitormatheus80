@@ -10,7 +10,7 @@ Sou um desenvolvedor Java em busca de desafios e oportunidades para aprimorar mi
 ## O que estou fazendo atualmente
 
 - 🏢 Trabalhando como desenvolvedor Java 
-- 🌱 Estudando sobre arquitetura de software e clean code
+- 🌱 Estudante de Analise e Desenvolvimento de Sistemas
 
 ## Me encontre na web 🌎
 
