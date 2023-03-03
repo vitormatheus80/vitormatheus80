@@ -1,6 +1,6 @@
 # Olá, eu sou Vitor Matheus! 👋
 
-Sou um desenvolvedor Java em busca de desafios e oportunidades para aprimorar minhas habilidades. Atualmente, estou trabalhando com as seguintes tecnologias:
+Sou um desenvolvedor Java em busca de desafios para aprimorar minhas habilidades. Atualmente, estou trabalhando com as seguintes tecnologias:
 
 - 💻 Java | Spring Framework
 - 🚀 APIs REST | Docker
