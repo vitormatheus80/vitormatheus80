@@ -1,15 +1,17 @@
 # Olá, eu sou Vitor Matheus! 👋
 
-Sou um desenvolvedor Java em busca de desafios para aprimorar minhas habilidades. Atualmente, estou trabalhando com as seguintes tecnologias:
+Sou um Desenvolvedor Backend em busca de desafios para aprimorar minhas habilidades. Atualmente, estou trabalhando com as seguintes tecnologias:
 
-- 💻 Java | Spring Framework
-- 🚀 APIs REST | Docker
-- 📊 SQL | MySQL
-- 🌱 Sempre aprendendo e buscando novos conhecimentos
+- 🚀 Desenvolvimento de APIs REST em Java com Spring Boot
+- 🚀 Integração com banco de dados MySQL.
+- 🚀 Controle de versão utilizando Git no Bitbucket e Github.
+- 🚀 Implementação de testes unitários com JUnit.
+- 🚀 Utilização de frameworks como Hibernate e Spring Security
+- 🚀 Adoção de metodologia ágil para gerenciamento de projetos
 
 ## O que estou fazendo atualmente
 
-- 🏢 Trabalhando como desenvolvedor Java 
+- 🏢 Trabalhando como Desenvolvedor Java 
 - 🌱 Estudante de Analise e Desenvolvimento de Sistemas
 
 ## Me encontre na web 🌎
